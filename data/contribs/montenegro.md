@@ -2,8 +2,8 @@
     
 *Top 200 github korisnika u Crnoj Gori po broju kontribucija*
 
-[Sortiraj po broju pratilaca](https://github.com/grishatop1/top-balkan-users/blob/main/data/followers/montenegro.md)
-
+* [Sortiraj po broju pratilaca](https://github.com/grishatop1/top-balkan-users/blob/main/data/followers/montenegro.md)
+* [Vrati se na pocetnu stranicu](https://github.com/grishatop1/top-balkan-users)
 
 <table>
     <tr>

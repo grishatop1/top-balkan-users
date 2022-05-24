@@ -2,8 +2,8 @@
     
 *Top 200 github korisnika u Hrvatskoj po broju kontribucija*
 
-[Sortiraj po broju pratilaca](https://github.com/grishatop1/top-balkan-users/blob/main/data/followers/croatia.md)
-
+* [Sortiraj po broju pratilaca](https://github.com/grishatop1/top-balkan-users/blob/main/data/followers/croatia.md)
+* [Vrati se na pocetnu stranicu](https://github.com/grishatop1/top-balkan-users)
 
 <table>
     <tr>
