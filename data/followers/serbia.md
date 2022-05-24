@@ -10,7 +10,7 @@
         <th>#</th>
         <th>Avatar</th>
         <th>Ime</th>
-        <th>Broj pratioca</th>
+        <th>Broj pratilaca</th>
         <th>Broj kontribucija u 2022. g.</th>
     </tr>
    <tr>
