@@ -1,6 +1,6 @@
 # top-balkan-users
 
-##### Top 200 lista najaktivnijih github korisnika u Srbiji, Hrvatskoj, Bosni i Crnoj Gori
+##### Top 200 najaktivnijih github korisnika iz Srbije, Hrvatske, Bosne i Crne Gore
 
 Drzava | Posljednji update | Gotovo
 --- | --- | ---
