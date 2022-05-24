@@ -11,7 +11,7 @@
         <th>Avatar</th>
         <th>Ime</th>
         <th>Broj pratilaca</th>
-        <th>Broj kontribucija u 2022. g.</th>
+        <th>Broj kontribucija</th>
     </tr>
    <tr>
         <td align='center'>1</td>
