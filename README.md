@@ -5,7 +5,7 @@
 Drzava | Posljednji update | Gotovo
 --- | --- | ---
 [Srbija](https://github.com/grishatop1/top-balkan-users/blob/main/data/contribs/serbia.md) | 24. maj 2022. | **Da**
-Hrvatska | - | **Ne**
+[Hrvatska](https://github.com/grishatop1/top-balkan-users/blob/main/data/contribs/croatia.md) | 24. maj 2022. | **Da**
 Bosna i Hercegovina | - | **Ne**
 Crna Gora | - | **Ne**
 
