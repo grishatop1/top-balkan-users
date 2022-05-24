@@ -2,7 +2,7 @@
     
 *Top 200 github korisnika u Srbiji po broju pratioca*
 
-[Sortiraj po broju kontribucija](https://github.com/grishatop1/top-balkan-users/data/contribs/serbia.md)
+[Sortiraj po broju kontribucija](https://github.com/grishatop1/top-balkan-users/blob/main/data/contribs/serbia.md)
 
 
 <table>
