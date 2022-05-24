@@ -93,7 +93,7 @@
        <tr>
         <td align='center'>12</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/36456104?u=d5514d9900ab1a9ac6b18e70a269c863ba77e9ad&v=4" width="36" /></td>
-        <td><a href="https://github.com/UDG-ER">None</a></td>
+        <td><a href="https://github.com/UDG-ER">UDG-ER</a></td>
         <td><b>40</b></td>
         <td>0</td>
     </tr>
@@ -359,7 +359,7 @@
        <tr>
         <td align='center'>50</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/54737709?u=ac403328b0184d8342f5de7e3b877dd67329be29&v=4" width="36" /></td>
-        <td><a href="https://github.com/titarenkoeleonora">None</a></td>
+        <td><a href="https://github.com/titarenkoeleonora">titarenkoeleonora</a></td>
         <td><b>12</b></td>
         <td>17</td>
     </tr>
@@ -975,7 +975,7 @@
        <tr>
         <td align='center'>138</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/56654298?v=4" width="36" /></td>
-        <td><a href="https://github.com/urosgluscevic">None</a></td>
+        <td><a href="https://github.com/urosgluscevic">urosgluscevic</a></td>
         <td><b>5</b></td>
         <td>0</td>
     </tr>
@@ -1017,14 +1017,14 @@
        <tr>
         <td align='center'>144</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/56823041?u=8ea0039d1d11ca376a66abd780b6826a7c06b399&v=4" width="36" /></td>
-        <td><a href="https://github.com/alyxspectre">None</a></td>
+        <td><a href="https://github.com/alyxspectre">alyxspectre</a></td>
         <td><b>5</b></td>
         <td>0</td>
     </tr>
        <tr>
         <td align='center'>145</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/99624143?u=a7c8f4e41371cc4d7b1b78d4d3b64a0219e40465&v=4" width="36" /></td>
-        <td><a href="https://github.com/AlunaGafanhota">None</a></td>
+        <td><a href="https://github.com/AlunaGafanhota">AlunaGafanhota</a></td>
         <td><b>5</b></td>
         <td>0</td>
     </tr>
@@ -1360,7 +1360,7 @@
        <tr>
         <td align='center'>193</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/58221984?u=160b07c40d5424c6899f311b9b88558f37a0a267&v=4" width="36" /></td>
-        <td><a href="https://github.com/oykos-development-hub">None</a></td>
+        <td><a href="https://github.com/oykos-development-hub">oykos-development-hub</a></td>
         <td><b>3</b></td>
         <td>26</td>
     </tr>

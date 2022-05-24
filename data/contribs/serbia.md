@@ -401,7 +401,7 @@
        <tr>
         <td align='center'>56</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/60391069?u=e2e35cf40a57c64a37d0487d020adde7517f022a&v=4" width="36" /></td>
-        <td><a href="https://github.com/majkic99">None</a></td>
+        <td><a href="https://github.com/majkic99">majkic99</a></td>
         <td>16</td>
         <td><b>354</b></td>
     </tr>

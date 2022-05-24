@@ -919,7 +919,7 @@
        <tr>
         <td align='center'>130</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/11476902?u=b9366f8fea5fb17712259790489a4fac682bcc32&v=4" width="36" /></td>
-        <td><a href="https://github.com/TypicalHog">None</a></td>
+        <td><a href="https://github.com/TypicalHog">TypicalHog</a></td>
         <td><b>40</b></td>
         <td>8</td>
     </tr>

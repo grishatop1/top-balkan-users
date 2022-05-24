@@ -443,7 +443,7 @@
        <tr>
         <td align='center'>62</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/80646077?u=56111d74761f2d15edb1ea489800e4591d113bb7&v=4" width="36" /></td>
-        <td><a href="https://github.com/Luksiuss">None</a></td>
+        <td><a href="https://github.com/Luksiuss">Luksiuss</a></td>
         <td><b>67</b></td>
         <td>63</td>
     </tr>
@@ -842,7 +842,7 @@
        <tr>
         <td align='center'>119</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/58053372?u=e5b6f3071df9342dd37b86852cf639b472867725&v=4" width="36" /></td>
-        <td><a href="https://github.com/DreyAnd">None</a></td>
+        <td><a href="https://github.com/DreyAnd">DreyAnd</a></td>
         <td><b>42</b></td>
         <td>59</td>
     </tr>
@@ -856,7 +856,7 @@
        <tr>
         <td align='center'>121</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/15851195?u=54643cb6e8d48cdf6b2cf46c7e1a87acfc645c90&v=4" width="36" /></td>
-        <td><a href="https://github.com/fr1sk">None</a></td>
+        <td><a href="https://github.com/fr1sk">fr1sk</a></td>
         <td><b>41</b></td>
         <td>0</td>
     </tr>
@@ -926,7 +926,7 @@
        <tr>
         <td align='center'>131</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/6282045?u=40dd39259b01097ba6c08777684f3e227a8ed038&v=4" width="36" /></td>
-        <td><a href="https://github.com/Umcaruje">None</a></td>
+        <td><a href="https://github.com/Umcaruje">Umcaruje</a></td>
         <td><b>38</b></td>
         <td>3</td>
     </tr>
@@ -996,7 +996,7 @@
        <tr>
         <td align='center'>141</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/43497623?u=da5775aaf1a135b68bc039652481a16f6df89c5e&v=4" width="36" /></td>
-        <td><a href="https://github.com/Vuka951">None</a></td>
+        <td><a href="https://github.com/Vuka951">Vuka951</a></td>
         <td><b>36</b></td>
         <td>28</td>
     </tr>
@@ -1374,7 +1374,7 @@
        <tr>
         <td align='center'>195</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/3994155?v=4" width="36" /></td>
-        <td><a href="https://github.com/StefanKovac">None</a></td>
+        <td><a href="https://github.com/StefanKovac">StefanKovac</a></td>
         <td><b>28</b></td>
         <td>0</td>
     </tr>

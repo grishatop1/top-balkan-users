@@ -72,7 +72,7 @@
        <tr>
         <td align='center'>9</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/56588859?u=1c81d44c3526557deb1647d439131af687f2c9c3&v=4" width="36" /></td>
-        <td><a href="https://github.com/MS-WEB-BN">None</a></td>
+        <td><a href="https://github.com/MS-WEB-BN">MS-WEB-BN</a></td>
         <td><b>64</b></td>
         <td>0</td>
     </tr>
@@ -107,14 +107,14 @@
        <tr>
         <td align='center'>14</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/1972177?u=8e9babc080aaf4a096df0745e7253331a80347ec&v=4" width="36" /></td>
-        <td><a href="https://github.com/vaktija">None</a></td>
+        <td><a href="https://github.com/vaktija">vaktija</a></td>
         <td><b>48</b></td>
         <td>61</td>
     </tr>
        <tr>
         <td align='center'>15</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/3314318?v=4" width="36" /></td>
-        <td><a href="https://github.com/mrakodol">None</a></td>
+        <td><a href="https://github.com/mrakodol">mrakodol</a></td>
         <td><b>47</b></td>
         <td>0</td>
     </tr>
@@ -184,7 +184,7 @@
        <tr>
         <td align='center'>25</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/61620747?v=4" width="36" /></td>
-        <td><a href="https://github.com/kernel-dev">None</a></td>
+        <td><a href="https://github.com/kernel-dev">kernel-dev</a></td>
         <td><b>34</b></td>
         <td>486</td>
     </tr>
@@ -436,7 +436,7 @@
        <tr>
         <td align='center'>61</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/22131674?u=bed836bd315cf6e35760e668c76dd5bebc55d9ff&v=4" width="36" /></td>
-        <td><a href="https://github.com/teufik2305">None</a></td>
+        <td><a href="https://github.com/teufik2305">teufik2305</a></td>
         <td><b>18</b></td>
         <td>0</td>
     </tr>
@@ -485,7 +485,7 @@
        <tr>
         <td align='center'>68</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/973728?u=4560fbcaa384602d8710f107a2cabd5704e0c941&v=4" width="36" /></td>
-        <td><a href="https://github.com/vernes">None</a></td>
+        <td><a href="https://github.com/vernes">vernes</a></td>
         <td><b>17</b></td>
         <td>0</td>
     </tr>
@@ -548,7 +548,7 @@
        <tr>
         <td align='center'>77</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/76805721?u=4938e48fa41d563ca0145388649d328dbc5d9ebe&v=4" width="36" /></td>
-        <td><a href="https://github.com/MetaMan13">None</a></td>
+        <td><a href="https://github.com/MetaMan13">MetaMan13</a></td>
         <td><b>16</b></td>
         <td>148</td>
     </tr>
@@ -863,7 +863,7 @@
        <tr>
         <td align='center'>122</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/52663343?v=4" width="36" /></td>
-        <td><a href="https://github.com/mm105">None</a></td>
+        <td><a href="https://github.com/mm105">mm105</a></td>
         <td><b>12</b></td>
         <td>15</td>
     </tr>
@@ -891,7 +891,7 @@
        <tr>
         <td align='center'>126</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/41983506?v=4" width="36" /></td>
-        <td><a href="https://github.com/arminbajric">None</a></td>
+        <td><a href="https://github.com/arminbajric">arminbajric</a></td>
         <td><b>12</b></td>
         <td>0</td>
     </tr>
@@ -1178,7 +1178,7 @@
        <tr>
         <td align='center'>167</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/44225280?u=a51dce04e9816a2c59cd5dc2ae51283e7ebba42d&v=4" width="36" /></td>
-        <td><a href="https://github.com/nhadziosma1">None</a></td>
+        <td><a href="https://github.com/nhadziosma1">nhadziosma1</a></td>
         <td><b>10</b></td>
         <td>0</td>
     </tr>
@@ -1241,7 +1241,7 @@
        <tr>
         <td align='center'>176</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/90571565?v=4" width="36" /></td>
-        <td><a href="https://github.com/ademir223">None</a></td>
+        <td><a href="https://github.com/ademir223">ademir223</a></td>
         <td><b>9</b></td>
         <td>0</td>
     </tr>
@@ -1304,7 +1304,7 @@
        <tr>
         <td align='center'>185</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/43503468?u=97c7765172e9c1a3f6f7986242d8db85cb227c1e&v=4" width="36" /></td>
-        <td><a href="https://github.com/12emin34">None</a></td>
+        <td><a href="https://github.com/12emin34">12emin34</a></td>
         <td><b>9</b></td>
         <td>34</td>
     </tr>

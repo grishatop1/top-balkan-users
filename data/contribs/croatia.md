@@ -541,14 +541,14 @@
        <tr>
         <td align='center'>76</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/1491765?u=5eb0308c3a802db5d526f71ebfa29600dcccf761&v=4" width="36" /></td>
-        <td><a href="https://github.com/vanjavk">None</a></td>
+        <td><a href="https://github.com/vanjavk">vanjavk</a></td>
         <td>7</td>
         <td><b>341</b></td>
     </tr>
        <tr>
         <td align='center'>77</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/8408581?u=f5827d9478a3ccd0b837cdefe3bbd10794d9317c&v=4" width="36" /></td>
-        <td><a href="https://github.com/Ivan1248">None</a></td>
+        <td><a href="https://github.com/Ivan1248">Ivan1248</a></td>
         <td>10</td>
         <td><b>340</b></td>
     </tr>
@@ -968,7 +968,7 @@
        <tr>
         <td align='center'>137</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/49595438?u=8e27046e1afbe655548740f63ce97f0f4c072046&v=4" width="36" /></td>
-        <td><a href="https://github.com/Karl255">None</a></td>
+        <td><a href="https://github.com/Karl255">Karl255</a></td>
         <td>14</td>
         <td><b>179</b></td>
     </tr>
@@ -1031,7 +1031,7 @@
        <tr>
         <td align='center'>146</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/3473778?u=cd2be9157a5af6a2977cd37b9f52945b192a58be&v=4" width="36" /></td>
-        <td><a href="https://github.com/dejankos">None</a></td>
+        <td><a href="https://github.com/dejankos">dejankos</a></td>
         <td>13</td>
         <td><b>160</b></td>
     </tr>
@@ -1052,7 +1052,7 @@
        <tr>
         <td align='center'>149</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/30674077?u=a13a5b34c2378d57d231e86394c4207869b3df40&v=4" width="36" /></td>
-        <td><a href="https://github.com/DarioSiroki">None</a></td>
+        <td><a href="https://github.com/DarioSiroki">DarioSiroki</a></td>
         <td>7</td>
         <td><b>159</b></td>
     </tr>
@@ -1136,7 +1136,7 @@
        <tr>
         <td align='center'>161</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/30960668?v=4" width="36" /></td>
-        <td><a href="https://github.com/sinisaos">None</a></td>
+        <td><a href="https://github.com/sinisaos">sinisaos</a></td>
         <td>6</td>
         <td><b>140</b></td>
     </tr>
@@ -1164,7 +1164,7 @@
        <tr>
         <td align='center'>165</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/81049050?u=2df569a1094e6675c7328dd555cb46aab94542e2&v=4" width="36" /></td>
-        <td><a href="https://github.com/trakBan">None</a></td>
+        <td><a href="https://github.com/trakBan">trakBan</a></td>
         <td>16</td>
         <td><b>131</b></td>
     </tr>
@@ -1227,7 +1227,7 @@
        <tr>
         <td align='center'>174</td>
         <td align='center'><img src="https://avatars.githubusercontent.com/u/19698636?v=4" width="36" /></td>
-        <td><a href="https://github.com/croraf">None</a></td>
+        <td><a href="https://github.com/croraf">croraf</a></td>
         <td>6</td>
         <td><b>122</b></td>
     </tr>
