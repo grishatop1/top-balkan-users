@@ -1,5 +1,7 @@
 # top-balkan-users
 
+## repo is no longer maintained..
+
 ### Top 200 najaktivnijih github korisnika iz Srbije, Hrvatske, Bosne i Hercegovine i Crne Gore
 
 Drzava | Posljednji update
